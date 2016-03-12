@@ -76,7 +76,6 @@ Tabula helps you extract data tables from PDFs. It's free and open-source, and u
 	- Can help to use -f [first page] and -l [last page] to split a long document into more readable pieces (which can be parsed in order later.) 
     - It's usually best to use the `-layout` flag to make `pdftotext` use whitespace to approximate the document's physical layout. This does a decent job of approximating linebreaks, though multi-column text can mess things up.
     - In combination with regular expressions, you can parse surprisingly complex documents.
-    - Newish versions have a 
  	- The `-bbox` option spits out *word-level* bounding box information, but not fonts. This is a quick-and-dirty way to pull this info for scanned documents (where the fonts probably aren't that reliable anyways) 
 
 ### pdftohtml
