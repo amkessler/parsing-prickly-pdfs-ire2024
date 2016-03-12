@@ -6,9 +6,9 @@ Resources and worksheet for the NICAR 2016 workshop of the same name. Instructor
 ## What We'll Cover
 
 - [The One Weird Thing You Need To Know About PDFs](#the-one-weird-thing-you-need-to-know-about-pdfs)
-- [Splitting, Merging, and Rotating PDFs](#splitting-merging-and-rotating-pdfs)
 - [Optical Character Recognition](#optical-character-recognition)
 - [Extracting Structured Data From PDFs](#extracting-structured-data-from-pdfs) 
+- [Splitting, Merging, and Rotating PDFs](#splitting-merging-and-rotating-pdfs)
 - [Additional Resources](#additional-resources)
 
 
@@ -21,29 +21,6 @@ Resources and worksheet for the NICAR 2016 workshop of the same name. Instructor
 	- "Image-based PDFs": The document has images of pages, but not words themselves. Typically the result of scanning. You can't highlight text.
 	
 	- "Embedded-text PDFs": The document has images of pages, but there's invisible text 'attached' to the document, so you can select text. Typically created by scanners that also run OCR. Sticky wicket: should you assume the attached text is better than what you'd get by running tesseract? Not necessarily (but it probably is...)
-
-## Splitting, Merging, and Rotating PDFs
-
-It's easy enough to split/merge/rotate documents in your favorite PDF viewer. But when you've got a giant batch of PDFs, or want to perform a complex manipulation, command-line tools are handy. A couple of free tools and libraries:
-
-### Coherent PDF / `cpdf`
-
-- [Homepage](http://www.coherentpdf.com/)
-- [User guide](http://www.coherentpdf.com/cpdfmanual.pdf)
-- Example usage:
-    - `cpdf -split original.pdf -o original-split-%%%.pdf -chunk 10`. Splits `original.pdf` into 10-page chunks, titled `original-split-000.pdf`, `original-split-001.pdf`, and so on.
-    - `cpdf -merge original-split-*.pdf -o original-merged.pdf`. Rejoins all PDFs matching the pattern `original-split-*.pdf` into a single file.
-    - `cpdf -rotateby 90 original.pdf 2-5,12-15 -o original-rotated.pdf`. Rotates pages 2-5 and 12-15 by 90 degrees clockwise.
-
-### PDFtk
-
-- [Homepage](https://www.pdflabs.com/tools/pdftk-server/)
-- [User guide](https://www.pdflabs.com/docs/pdftk-man-page/). On Mac OS 10.11 see [here](http://stackoverflow.com/a/33248310).
-- Example usage:
-    - `pdftk original.pdf burst output original-split-%023.pdf`. Splits `original.pdf` into single-page PDFs, titled `original-split-000.pdf`, `original-split-001.pdf`, and so on.
-    - `pdftk original-split-*.pdf cat output original-merged.pdf`. Rejoins all PDFs matching the pattern `original-split-*.pdf` into a single file.
-    - `pdftk original.pdf cat 1 2-5right 6-11 12-15right 15-end output original-rotated.pdf`. Rotates pages 2-5 and 12-15 by 90 degrees clockwise.
-    - `pdftk infile.pdf cat 1 output output_p1.pdf`. Puts just the first page in output_p1.pdf. Use `cat 2-4` to put pages 2 through 4, for example.
 
 ## Optical Character Recognition
 
@@ -179,6 +156,29 @@ The viewer just shows a single document, but a web-app backed version of this ha
 If this is something that's of interest to you, sign up here to get [notified](https://docs.google.com/forms/d/1YbZlP8dPZnoUcuIX8-x30BVVxNQxNThUwfN1IgZuCvc/viewform?edit_requested=true) about this project: bit.ly/whatwordwhere -- I'll be beta testing in a month or so. 
 
  
+## Splitting, Merging, and Rotating PDFs
+
+It's easy enough to split/merge/rotate documents in your favorite PDF viewer. But when you've got a giant batch of PDFs, or want to perform a complex manipulation, command-line tools are handy. A couple of free tools and libraries:
+
+### Coherent PDF / `cpdf`
+
+- [Homepage](http://www.coherentpdf.com/)
+- [User guide](http://www.coherentpdf.com/cpdfmanual.pdf)
+- Example usage:
+    - `cpdf -split original.pdf -o original-split-%%%.pdf -chunk 10`. Splits `original.pdf` into 10-page chunks, titled `original-split-000.pdf`, `original-split-001.pdf`, and so on.
+    - `cpdf -merge original-split-*.pdf -o original-merged.pdf`. Rejoins all PDFs matching the pattern `original-split-*.pdf` into a single file.
+    - `cpdf -rotateby 90 original.pdf 2-5,12-15 -o original-rotated.pdf`. Rotates pages 2-5 and 12-15 by 90 degrees clockwise.
+
+### PDFtk
+
+- [Homepage](https://www.pdflabs.com/tools/pdftk-server/)
+- [User guide](https://www.pdflabs.com/docs/pdftk-man-page/). On Mac OS 10.11 see [here](http://stackoverflow.com/a/33248310).
+- Example usage:
+    - `pdftk original.pdf burst output original-split-%023.pdf`. Splits `original.pdf` into single-page PDFs, titled `original-split-000.pdf`, `original-split-001.pdf`, and so on.
+    - `pdftk original-split-*.pdf cat output original-merged.pdf`. Rejoins all PDFs matching the pattern `original-split-*.pdf` into a single file.
+    - `pdftk original.pdf cat 1 2-5right 6-11 12-15right 15-end output original-rotated.pdf`. Rotates pages 2-5 and 12-15 by 90 degrees clockwise.
+    - `pdftk infile.pdf cat 1 output output_p1.pdf`. Puts just the first page in output_p1.pdf. Use `cat 2-4` to put pages 2 through 4, for example.
+
 
 ## Additional Resources
 
