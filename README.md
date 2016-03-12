@@ -1,4 +1,5 @@
-# Parsing Prickly PDFs
+# [bit.ly/parsing-prickly-pdfs](https://bit.ly/parsing-prickly-pdfs)
+
 
 Resources and worksheet for the NICAR 2016 workshop of the same name. Instructors: [Jacob Fenton](https://github.com/jsfenfen) ([jsfenfen@gmail.com](mailto:jsfenfen@gmail.com)) and [Jeremy Singer-Vine](https://github.com/jsvine) ([jsvine@gmail.com](mailto:jsvine@gmail.com)).
 
