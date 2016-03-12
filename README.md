@@ -89,6 +89,7 @@ Tabula helps you extract data tables from PDFs. It's free and open-source, and u
     - Use the `-xml` flag to include location information for text blocks (i.e. the number of pixels to the top of the page and to the left of the page; the width and height of the text box; the font face and size can be figured out from the styling). This can be especially helpful when each cell of a chart is represented as a text block.
     - You can parse the result like you'd parse any other HTML/XML document. ([Example](http://nbviewer.jupyter.org/github/buzzfeednews/2015-02-georgia-cpa-scores/blob/master/notebooks/georgia-cpa-scores.ipynb).)
     - The `-c` option creates .html pages — one for each page — which can come in handy for dead-simple display. It's not quite as useful as the `-xml` output for analysis; it includes the distance to the top and left of the page, but omits the text block width and height.
+- [Real-world example](https://github.com/BuzzFeedNews/2015-02-georgia-cpa-scores)
 
 ### tabula-java
 
