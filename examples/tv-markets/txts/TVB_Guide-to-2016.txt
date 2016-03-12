@@ -1,0 +1,266 @@
+       Alabama                                       Mar. 01      Solid REP       Solid REP
+  45   Birmingham (Ann and Tusc)    45.5% 5.7%
+  58   Mobile-Pensacola (Ft Walt)   37.8% 11.9%
+  79   Huntsville-Decatur (Flor)    41.1% 10.0%
+ 122   Montgomery-Selma             38.5% 8.3%
+ 173   Dothan                       46.4% 9.0%
+       Alaska                                       Mar. 01, 26   Solid REP       Likely REP
+ 148   Anchorage                    24.0% 14.9%
+ 202   Fairbanks                    27.1% 31.7%
+ 207   Juneau                       20.2% 15.6%
+       Arizona                                       Mar. 22      Likely REP      Likely REP
+  12   Phoenix (Prescott)           43.8% 18.1%                                                                             AZ-01, 09
+  70   Tucson (Sierra Vista)        43.4% 17.3%                                                                              AZ-02
+ 166   Yuma-El Centro               47.2% 18.5%
+       Arkansas                                      Mar. 01      Solid REP       Solid REP
+  57   Little Rock-Pine Bluff       51.7% 10.3%
+ 100   Ft. Smith-Fay-Sprngdl-Rgrs   40.4% 14.0%
+ 181   Jonesboro                    39.0% 10.9%
+       California                                    Jun. 07      Solid DEM       Solid DEM
+   2   Los Angeles                  34.1%   14.4%                                                                    CA-25, 26, 31, 36, NV-03
+   6   San Francisco-Oak-San Jose   23.2%   11.3%                                                                           CA-07, 10
+  20   Sacramnto-Stkton-Modesto     40.1%   12.7%                                                                           CA-07, 10
+  28   San Diego                    20.3%    6.3%                                                                            CA-52
+  54   Fresno-Visalia               45.4%   16.7%                                                                            CA-21
+ 124   SantaBarbra-SanMar-SanLuOb   41.9%    9.1%                                                                            CA-24
+ 125   Monterey-Salinas             40.3%   13.1%
+ 126   Bakersfield                  36.8%   16.2%                                                                            CA-21
+ 132   Chico-Redding                51.2%   15.8%
+ 146   Palm Springs                 29.6%    5.5%
+ 195   Eureka                       31.6%   15.9%
+       Colorado                                      Mar. 01      TOSS UP        Leaning DEM
+  17   Denver                       40.6% 14.7%                        X               X                                     CO-06
+  89   Colorado Springs-Pueblo      40.2% 15.2%                        X               X                                     CO-06
+ 185   Grand Junction-Montrose      31.2% 19.2%                        X               X
+       Connecticut                                   Apr. 26      Solid DEM       Solid DEM
+ 30    Hartford & New Haven         13.8%   2.8%                                                                              CT-05
+       Delaware                                      Apr. 26      Solid DEM                         Solid DEM
+  4    Philadelphia                 12.6%   7.3%
+ 143   Salisbury                    25.5%   8.7%
+       Florida                                         Mar. 15       TOSS UP         TOSS UP
+  11   Tampa-St. Pete (Sarasota)      14.7%    8.3%                      X               X                                    FL-13
+  16   Miami-Ft. Lauderdale           20.0%   11.6%                      X               X                                    FL-26
+  19   Orlando-Daytona Bch-Melbrn     21.8%    9.1%                      X               X                                   FL-07, 10
+  38   West Palm Beach-Ft. Pierce     19.3%    4.4%                      X               X                                    FL-18
+  47   Jacksonville                   29.0%   10.3%                      X               X
+  61   Ft. Myers-Naples               28.5%    8.6%                      X               X
+ 108   Tallahassee-Thomasville        41.0%    8.5%                      X               X                                     FL-02
+ 154   Panama City                    36.0%   12.4%                      X               X                                     FL-02
+ 162   Gainesville                    37.1%   15.6%                      X               X
+       Georgia                                         Mar. 01      Likely REP      Likely REP
+   9   Atlanta                        34.5% 9.8%
+  91   Savannah                       42.6% 6.8%
+ 112   Augusta-Aiken                  39.7% 11.0%
+ 120   Macon                          49.8% 10.2%
+ 127   Columbus, GA (Opelika, AL)     36.2% 10.6%
+ 152   Albany, GA                     53.2% 7.7%
+       Hawaii                                         Mar. 08, 26   Solid DEM       Solid DEM
+ 66    Honolulu                       10.8%   6.0%
+       Idaho                                          Mar. 08, 22   Solid REP       Solid REP
+ 107   Boise                          49.7% 31.6%
+ 163   Idaho Falls-Pocatello(Jcksn)   49.7% 27.6%
+ 193   Twin Falls                     54.4% 19.6%
+       Illinois                                        Mar. 15      Solid DEM        TOSS UP
+   3   Chicago                        25.0%   14.1%                                      X                                     IL-10
+  82   Paducah-Cape Girard-Harsbg     58.9%   10.0%                                      X                                     IL-12
+  85   Champaign&Sprngfld-Decatur     39.5%    9.7%                                      X                                     IL-13
+ 101   Davenport-R.Island-Moline      43.7%   13.1%                                      X
+ 117   Peoria-Bloomington             38.2%   12.5%                                      X
+ 136   Rockford                       34.4%   12.3%                                      X
+ 170   Quincy-Hannibal-Keokuk         49.3%   15.1%                                      X                                     IA-02
+       Indiana                                         May 03       Solid REP       Likely REP        Likely REP
+  27   Indianapolis                   30.2%   12.4%
+  96   South Bend-Elkhart             37.0%   20.0%
+ 103   Evansville                     46.0%   11.0%
+ 111   Ft. Wayne                      39.5%   24.0%
+ 155   Terre Haute                    53.7%   12.5%
+ 187   Lafayette, IN                  30.1%    9.8%
+       Iowa                                            Feb. 01        TOSS UP         Solid REP
+  72   Des Moines-Ames              48.0%   18.3%                         X                                                      IA-03
+  90   Cedar Rapids-Wtrlo-IWC&Dub   38.9%   14.5%                         X                                                      IA-01
+ 149   Sioux City                   40.9%   14.4%                         X
+ 200   Ottumwa-Kirksville           47.5%   13.7%                         X
+       Kansas                                          Mar. 05        Solid REP       Solid REP
+  65   Wichita-Hutchinson Plus      33.6% 14.2%
+ 135   Topeka                       33.8% 13.7%
+       Kentucky                                     Mar. 05, May 17   Solid REP       Solid REP
+  49   Louisville                   31.3% 11.7%
+  63   Lexington                    47.7% 9.9%
+ 182   Bowling Green                24.6% 11.3%
+       Louisiana                                       Mar. 05        Solid REP       Solid REP
+  51   New Orleans                  32.3% 9.6%
+  83   Shreveport                   60.1% 10.3%
+  93   Baton Rouge                  27.0% 6.3%
+ 121   Lafayette, LA                36.0% 10.0%
+ 137   Monroe-El Dorado             55.6% 7.9%
+ 174   Lake Charles                 34.8% 9.6%
+ 179   Alexandria, LA               45.6% 7.4%
+       Maine                                         Mar. 05, 06      Solid DEM
+  80   Portland-Auburn              29.0% 11.7%                                                                              ME-02, NH-01
+ 156   Bangor                       47.1% 15.5%                                                                                 ME-02
+ 206   Presque Isle                 45.2% 11.1%                                                                                 ME-02
+       Maryland                                        Apr. 26        Solid DEM       Solid DEM
+   7   Washington, DC (Hagrstwn)    18.8% 6.1%                                                                               MD-06, VA-10
+  26   Baltimore                    15.9% 10.2%
+ 143   Salisbury                    25.5% 8.7%
+       Massachusetts                                   Mar. 01        Solid DEM
+  8    Boston (Manchester)          12.7%   3.9%
+ 116   Springfield-Holyoke          15.7%   7.1%
+       Michigan                                     Mar. 08    Likely DEM
+  13   Detroit                      21.1%   13.9%                                                                       MI-07, 08
+  41   Grand Rapids-Kalmzoo-B.Crk   31.6%   14.4%
+  71   Flint-Saginaw-Bay City       32.7%   12.2%
+ 113   Lansing                      33.6%   14.7%                                                                       MI-07, 08
+ 118   Traverse City-Cadillac       45.2%   15.1%                                                                        MI-01
+ 180   Marquette                    39.5%    7.8%                                                                        MI-01
+ 208   Alpena                       35.7%   10.9%
+       Minnesota                                    Mar. 01    Likely DEM
+  15   Minneapolis-St. Paul         31.8%   18.4%                                                                     MN-02, 07, 08
+ 141   Duluth-Superior              44.9%   20.5%                                                                       MN-08
+ 153   Rochestr-Mason City-Austin   33.7%   15.8%
+ 199   Mankato                      26.2%   10.9%                                                                        MN-02
+       Mississippi                                  Mar. 08    Solid REP
+  95   Jackson, MS                  50.4%    8.4%
+ 133   Columbus-Tupelo-W Pnt-Hstn   65.1%   10.0%
+ 158   Biloxi-Gulfport              36.9%   10.8%
+ 168   Hattiesburg-Laurel           48.4%   12.0%
+ 189   Meridian                     59.6%   10.4%
+ 192   Greenwood-Greenville         52.1%    6.5%
+       Missouri                                     Mar. 15    Solid REP       Likely REP         TOSS UP
+  21   St. Louis                    34.9%   14.7%                                                     X                 IL-12, 13
+  33   Kansas City                  27.3%   20.9%                                                     X
+  75   Springfield, MO              53.4%   19.7%                                                     X
+ 138   Columbia-Jefferson City      53.4%   15.3%                                                     X
+ 151   Joplin-Pittsburg             51.4%   18.3%                                                     X
+ 201   St. Joseph                   38.2%   15.2%                                                     X
+       Montana                                      Jun. 07    Solid REP                         Likely DEM
+ 164   Missoula                     47.4%   21.4%
+ 167   Billings                     41.1%   14.4%
+ 186   Butte-Bozeman                41.3%   23.8%
+ 191   Great Falls                  46.2%   17.1%
+ 205   Helena                       30.0%   23.3%
+ 210   Glendive                     28.1%    9.2%
+     Nebraska                                     Mar. 05, May 10   Solid REP
+  74 Omaha                        28.4% 14.4%                                                                               NE-02, IA-03
+ 105 Lincoln & Hastings-Krny      45.9% 12.8%
+ 209 North Platte                 38.4% 14.3%
+     Nevada                                        Feb. 20, 23      TOSS UP         TOSS UP
+  40 Las Vegas                    37.1% 8.9%                             X             X                                     NV-03, 04
+ 106 Reno                         41.1% 14.2%                            X             X                                      NV-04
+     New Hampshire                                   Feb. 09        TOSS UP         TOSS UP           TOSS UP
+   8 Boston (Manchester)          12.7% 3.9%                             X             X                 X                    NH-01
+  98 Burlington-Plattsburgh       39.7% 11.7%                            X             X                 X
+     New Jersey                                      Jun. 07        Solid DEM
+   1 New York                      9.8%   5.1%                                                                               NJ-03, 05
+   4 Philadelphia                 12.6%   7.3%                                                                                NJ-03
+     New Mexico                                      Jun. 07        Likely DEM
+  48 Albuquerque-Santa Fe         51.3% 21.5%                                                                                  AZ-01
+     New York                                        Apr. 19        Solid DEM       Solid DEM
+   1 New York                      9.8%  5.1%                                                                              NY-01, 18, 19
+  53 Buffalo                      26.0% 6.5%                                                                                  NY-23
+  59 Albany-Schenectady-Troy      21.5% 8.7%                                                                                  NY-21
+  76 Rochester, NY                24.4% 13.5%                                                                                 NY-25
+  84 Syracuse                     18.5% 9.6%                                                                                  NY-24
+ 159 Binghamton                   28.7% 8.7%                                                                                  NY-22
+ 172 Utica                        26.2% 6.5%                                                                                  NY-22
+ 175 Elmira (Corning)             34.5% 7.1%                                                                                  NY-23
+ 177 Watertown                    32.9% 10.3%                                                                                 NY-21
+     North Carolina                                  Mar. 15       Leaning REP     Leaning REP         TOSS UP
+  22 Charlotte                    36.0%   11.3%                         X               X                  X                  NC-09
+  25 Raleigh-Durham (Fayetvlle)   34.7%   12.3%                         X               X                  X
+  37 Greenvll-Spart-Ashevll-And   46.8%   12.0%                         X               X                  X
+  46 Greensboro-H.Point-W.Salem   38.5%   11.5%                         X               X                  X
+  99 Greenville-N.Bern-Washngtn   38.2%   11.6%                         X               X                  X
+ 130 Wilmington                   29.4%   10.7%                         X               X                  X
+     North Dakota                                 Mar. 01, Jun. 07  Solid REP       Solid REP         Likely REP
+ 115 Fargo-Valley City            34.5% 11.9%                                                                                 MN-07
+ 139 Minot-Bismarck-Dickinson     33.7% 11.2%
+       Ohio                                          Mar. 15      TOSS UP        Leaning REP
+  18   Cleveland-Akron (Canton)     26.3%   10.7%                     X               X
+  31   Columbus, OH                 25.5%   12.5%                     X               X
+  36   Cincinnati                   28.2%   15.6%                     X               X
+  64   Dayton                       26.2%   20.2%                     X               X
+  77   Toledo                       30.2%   13.3%                     X               X                                      MI-07
+ 114   Youngstown                   30.1%   11.3%                     X               X
+ 188   Lima                         22.7%    9.6%                     X               X
+ 204   Zanesville                   37.3%    5.9%                     X               X
+       Oklahoma                                      Mar. 01      Solid REP       Solid REP
+  43   Oklahoma City                36.1% 17.7%
+  60   Tulsa                        38.1% 21.6%
+ 161   Sherman-Ada                  60.3% 14.9%
+       Oregon                                        May 17       Solid DEM       Solid DEM         Solid DEM
+  24   Portland, OR                 34.0%   14.2%
+ 119   Eugene                       35.8%   17.4%
+ 140   Medford-Klamath Falls        49.7%   16.5%
+ 190   Bend, OR                     31.1%   19.2%
+       Pennsylvania                                  Apr. 26      TOSS UP        Leaning REP
+   4   Philadelphia                 12.6% 7.3%                         X              X                                    PA-06, 08
+  23   Pittsburgh                   24.5% 5.0%                         X              X                                     MD-06
+  44   Harrisburg-Lncstr-Leb-York   26.4% 8.4%                         X              X                                     PA-06
+  55   Wilkes Barre-Scranton-Hztn   37.1% 6.3%                         X              X
+ 104   Johnstown-Altoona-St Colge   42.8% 5.5%                         X              X
+ 150   Erie                         41.2% 11.3%                        X              X
+       Rhode Island                                  Apr. 26      Solid DEM
+ 52    Providence-New Bedford       9.4%    6.3%
+       South Carolina                               Feb. 20, 27   Solid REP       Solid REP
+  78   Columbia, SC                 37.8% 11.8%
+  94   Charleston, SC               30.0% 10.8%
+ 102   Myrtle Beach-Florence        32.2% 9.3%
+     South Dakota                                 Jun. 07    Solid REP       Solid REP
+ 110 Sioux Falls(Mitchell)        32.4% 11.5%
+ 171 Rapid City                   35.3% 14.4%
+     Tennessee                                    Mar. 01    Solid REP
+  29 Nashville                    39.3% 6.9%
+  50 Memphis                      41.1% 14.2%
+  62 Knoxville                    32.0% 9.6%
+  88 Chattanooga                  31.9% 10.9%
+ 176 Jackson, TN                  40.6% 8.3%
+     Texas                                        Mar. 01    Solid REP
+   5 Dallas-Ft. Worth             29.3%   18.6%
+  10 Houston                      30.0%   18.8%
+  32 San Antonio                  32.3%   15.0%                                                                         TX-23
+  39 Austin                       24.6%   16.4%
+  86 Harlingen-Wslco-Brnsvl-McA   36.6%   24.9%
+  87 Waco-Temple-Bryan            42.2%   13.2%
+  92 El Paso (Las Cruces)         33.9%   21.6%                                                                         TX-23
+ 109 Tyler-Longview(Lfkn&Ncgd)    52.9%    9.3%
+ 129 Corpus Christi               39.5%    8.8%
+ 131 Amarillo                     50.7%    9.3%
+ 142 Beaumont-Port Arthur         46.0%    9.8%
+ 144 Lubbock                      39.7%   15.9%
+ 145 Odessa-Midland               38.5%    7.5%
+ 147 Wichita Falls & Lawton       58.1%   10.1%
+ 165 Abilene-Sweetwater           54.4%   12.0%
+ 184 Laredo                       30.3%   13.4%
+ 198 San Angelo                   39.8%    6.4%
+ 203 Victoria                     42.4%   10.5%
+       Utah                                                         Mar. 22         Solid REP          Solid REP              Solid REP
+ 34    Salt Lake City                         41.3% 18.7%                                                                                                       UT-04
+       Vermont                                                      Mar. 01         Solid DEM          Solid DEM              Likely DEM
+ 98    Burlington-Plattsburgh                 39.7% 11.7%                                                                                                       NY-21
+       Virginia                                                     Mar. 01         TOSS UP
+  42   Norfolk-Portsmth-Newpt Nws             26.4% 6.5%                                 X                                                                      VA-04
+  56   Richmond-Petersburg                    30.8% 9.8%                                 X                                                                      VA-04
+  69   Roanoke-Lynchburg                      52.2% 11.2%                                X
+  97   Tri-Cities, TN-VA                      39.4% 8.3%                                 X
+ 178   Harrisonburg                           38.8% 9.6%                                 X
+ 183   Charlottesville                        31.8% 15.7%                                X
+       Washington                                               Mar. 26, May 24     Solid DEM          Solid DEM              Likely DEM
+  14   Seattle-Tacoma                         25.7% 6.6%
+  73   Spokane                                49.4% 16.6%
+ 123   Yakima-Pasco-Rchlnd-Knnwck             47.1% 22.1%
+       West Virginia                                                May 10          Solid REP                                  TOSS UP
+  67   Charleston-Huntington                  45.2%     6.7%                                                                      X                             WV-02
+ 157   Wheeling-Steubenville                  37.5%     7.0%                                                                      X
+ 160   Bluefield-Beckley-Oak Hill             43.0%     5.4%                                                                      X
+ 169   Clarksburg-Weston                      56.0%     5.3%                                                                      X                             WV-02
+ 194   Parkersburg                            30.3%     7.1%                                                                      X
+       Wisconsin                                                    Apr. 05         TOSS UP             TOSS UP
+  35   Milwaukee                              20.2%    21.6%                            X                  X
+  68   Green Bay-Appleton                     35.7%    19.2%                            X                  X
+  81   Madison                                33.5%    21.4%                            X                  X
+ 128   La Crosse-Eau Claire                   36.5%    16.1%                            X                  X
+ 134   Wausau-Rhinelander                     41.5%    18.3%                            X                  X
+       Wyoming                                                  Mar. 01, Apr. 09    Solid REP
+ 196   Casper-Riverton                        33.5% 13.0%
+ 197   Cheyenne-Scottsbluff                   33.5% 10.4%

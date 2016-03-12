@@ -1,0 +1,210 @@
+rank,dma,households,us_percent
+1,New York,"1,330,930",8.876
+2,Atlanta,"738,570",4.926
+3,"Washington, DC (Hagrstwn)","611,410",4.078
+4,Chicago,"599,680",3.999
+5,Philadelphia,"560,770",3.740
+6,Los Angeles,"484,050",3.228
+7,Houston,"440,600",2.938
+8,Dallas-Ft. Worth,"432,400",2.884
+9,Detroit,"392,080",2.615
+10,Miami-Ft. Lauderdale,"345,370",2.303
+11,Raleigh-Durham (Fayetvlle),"321,580",2.145
+12,Baltimore,"309,010",2.061
+13,Memphis,"265,730",1.772
+14,Charlotte,"240,800",1.606
+15,Cleveland-Akron (Canton),"225,540",1.504
+16,Norfolk-Portsmth-Newpt Nws,"217,730",1.452
+17,Orlando-Daytona Bch-Melbrn,"201,290",1.342
+18,Tampa-St. Pete (Sarasota),"196,940",1.313
+19,St. Louis,"195,290",1.302
+20,New Orleans,"188,230",1.255
+21,San Francisco-Oak-San Jose,"185,500",1.237
+22,Birmingham (Ann and Tusc),"179,720",1.199
+23,Richmond-Petersburg,"164,110",1.094
+24,Boston (Manchester),"162,530",1.084
+25,"Jackson, MS","148,200",0.988
+26,"Columbia, SC","147,720",0.985
+27,Greensboro-H.Point-W.Salem,"144,140",0.961
+28,Jacksonville,"137,000",0.914
+29,Nashville,"131,420",0.876
+30,Indianapolis,"124,960",0.833
+31,"Columbus, OH","119,540",0.797
+32,Greenvll-Spart-Ashevll-And,"115,000",0.767
+33,Shreveport,"110,290",0.736
+34,Mobile-Pensacola (Ft Walt),"110,180",0.735
+35,West Palm Beach-Ft. Pierce,"109,910",0.733
+36,Baton Rouge,"109,730",0.732
+37,Milwaukee,"108,990",0.727
+38,Cincinnati,"107,210",0.715
+39,Little Rock-Pine Bluff,"106,550",0.711
+40,Kansas City,"106,170",0.708
+41,Minneapolis-St. Paul,"104,870",0.699
+42,Sacramnto-Stkton-Modesto,"101,400",0.676
+43,Seattle-Tacoma,"100,460",0.670
+44,Hartford & New Haven,"99,520",0.664
+45,Montgomery-Selma,"98,740",0.658
+46,Phoenix (Prescott),"96,470",0.643
+47,Savannah,"94,750",0.632
+48,Augusta-Aiken,"94,130",0.628
+49,Las Vegas,"92,280",0.615
+50,"Charleston, SC","89,590",0.597
+51,Macon,"88,310",0.589
+52,Pittsburgh,"88,140",0.588
+53,"Columbus, GA (Opelika, AL)","81,760",0.545
+54,Louisville,"81,350",0.543
+55,Tallahassee-Thomasville,"81,240",0.542
+56,Greenville-N.Bern-Washngtn,"79,320",0.529
+57,Myrtle Beach-Florence,"76,560",0.511
+58,Denver,"70,590",0.471
+59,San Antonio,"68,220",0.455
+60,Roanoke-Lynchburg,"64,270",0.429
+61,Oklahoma City,"63,820",0.426
+62,San Diego,"63,680",0.425
+63,"Lafayette, LA","58,960",0.393
+64,Waco-Temple-Bryan,"58,770",0.392
+65,Dayton,"57,630",0.384
+66,Buffalo,"57,440",0.383
+67,Austin,"57,160",0.381
+68,Monroe-El Dorado,"56,170",0.375
+69,Huntsville-Decatur (Flor),"55,910",0.373
+70,"Albany, GA","53,470",0.357
+71,Grand Rapids-Kalmzoo-B.Crk,"53,030",0.354
+72,Columbus-Tupelo-W Pnt-Hstn,"52,940",0.353
+73,Flint-Saginaw-Bay City,"47,170",0.315
+74,"Rochester, NY","45,980",0.307
+75,Tyler-Longview(Lfkn&Ncgd),"42,720",0.285
+76,Harrisburg-Lncstr-Leb-York,"41,040",0.274
+77,Tulsa,"39,030",0.260
+78,Greenwood-Greenville,"38,350",0.256
+79,Beaumont-Port Arthur,"37,940",0.253
+80,Toledo,"37,460",0.250
+81,Providence-New Bedford,"34,820",0.232
+82,Chattanooga,"33,540",0.224
+83,Ft. Myers-Naples,"33,440",0.223
+84,Hattiesburg-Laurel,"32,290",0.215
+85,Albany-Schenectady-Troy,"32,280",0.215
+86,Wilmington,"31,440",0.210
+87,Champaign&Sprngfld-Decatur,"30,450",0.203
+88,"Portland, OR","30,060",0.200
+89,Biloxi-Gulfport,"29,490",0.197
+90,Lexington,"29,050",0.194
+91,Omaha,"27,690",0.185
+92,Salisbury,"26,530",0.177
+93,Fresno-Visalia,"26,420",0.176
+93,South Bend-Elkhart,"26,420",0.176
+95,Meridian,"25,500",0.170
+96,Paducah-Cape Girard-Harsbg,"25,240",0.168
+97,Syracuse,"23,800",0.159
+98,Knoxville,"23,680",0.158
+99,Youngstown,"23,300",0.155
+100,Wichita-Hutchinson Plus,"23,060",0.154
+101,Dothan,"21,810",0.145
+102,Lansing,"21,080",0.141
+103,"Alexandria, LA","20,900",0.139
+104,Lake Charles,"20,320",0.136
+105,Colorado Springs-Pueblo,"20,210",0.135
+106,Gainesville,"20,090",0.134
+107,Honolulu,"19,560",0.130
+108,"Jackson, TN","19,100",0.127
+109,Wilkes Barre-Scranton-Hztn,"18,180",0.121
+110,Springfield-Holyoke,"17,860",0.119
+111,Ft. Wayne,"17,840",0.119
+112,Peoria-Bloomington,"17,520",0.117
+113,Tucson (Sierra Vista),"17,500",0.117
+114,Albuquerque-Santa Fe,"17,150",0.114
+115,Rockford,"15,480",0.103
+116,Wichita Falls & Lawton,"15,040",0.100
+117,Panama City,"14,670",0.098
+118,El Paso (Las Cruces),"14,230",0.095
+119,Des Moines-Ames,"14,010",0.093
+120,Davenport-R.Island-Moline,"13,950",0.093
+121,Madison,"13,430",0.090
+122,Evansville,"12,730",0.085
+123,Bakersfield,"12,680",0.085
+124,Salt Lake City,"12,410",0.083
+125,Cedar Rapids-Wtrlo-IWC&Dub,"12,400",0.083
+126,Charleston-Huntington,"11,840",0.079
+127,Topeka,"10,960",0.073
+128,Columbia-Jefferson City,"10,830",0.072
+129,Ft. Smith-Fay-Sprngdl-Rgrs,"9,820",0.065
+130,Lubbock,"9,640",0.064
+131,Charlottesville,"8,840",0.059
+132,Anchorage,"8,810",0.059
+133,Amarillo,"8,560",0.057
+134,Odessa-Midland,"7,470",0.050
+134,"Springfield, MO","7,470",0.050
+136,Corpus Christi,"7,300",0.049
+137,Erie,"7,240",0.048
+138,"Tri-Cities, TN-VA","6,450",0.043
+139,Reno,"6,420",0.043
+140,Sherman-Ada,"6,260",0.042
+141,Bluefield-Beckley-Oak Hill,"6,160",0.041
+142,Spokane,"6,080",0.041
+143,Monterey-Salinas,"5,910",0.039
+144,Abilene-Sweetwater,"5,850",0.039
+145,Portland-Auburn,"5,520",0.037
+146,Lincoln & Hastings-Krny,"5,430",0.036
+147,Bowling Green,"5,190",0.035
+148,Jonesboro,"5,180",0.035
+149,Sioux Falls(Mitchell),"5,060",0.034
+150,Green Bay-Appleton,"5,020",0.033
+151,Johnstown-Altoona-St Colge,"4,920",0.033
+152,Harrisonburg,"4,810",0.032
+153,Lima,"4,800",0.032
+154,Palm Springs,"4,750",0.032
+155,SantaBarbra-SanMar-SanLuOb,"4,700",0.031
+156,Utica,"4,610",0.031
+157,Binghamton,"4,550",0.030
+158,Fargo-Valley City,"4,290",0.029
+159,Yakima-Pasco-Rchlnd-Knnwck,"3,730",0.025
+160,Wheeling-Steubenville,"3,660",0.024
+161,"Lafayette, IN","3,520",0.023
+162,Rochestr-Mason City-Austin,"3,450",0.023
+163,Burlington-Plattsburgh,"3,310",0.022
+164,Harlingen-Wslco-Brnsvl-McA,"3,130",0.021
+165,Watertown,"2,990",0.020
+166,Boise,"2,900",0.019
+167,Minot-Bsmrck-Dcknsn(Wlstn),"2,730",0.018
+168,Quincy-Hannibal-Keokuk,"2,700",0.018
+169,Chico-Redding,"2,690",0.018
+170,Yuma-El Centro,"2,660",0.018
+170,Terre Haute,"2,660",0.018
+172,Eugene,"2,650",0.018
+173,Joplin-Pittsburg,"2,620",0.017
+174,Elmira (Corning),"2,480",0.017
+175,Traverse City-Cadillac,"2,400",0.016
+176,Sioux City,"2,250",0.015
+177,Fairbanks,"2,240",0.015
+178,Victoria,"2,180",0.015
+179,Rapid City,"2,140",0.014
+180,San Angelo,"2,080",0.014
+181,Cheyenne-Scottsbluff,"1,880",0.013
+182,Clarksburg-Weston,"1,870",0.012
+183,St. Joseph,"1,780",0.012
+184,La Crosse-Eau Claire,"1,670",0.011
+185,Duluth-Superior,"1,660",0.011
+186,Medford-Klamath Falls,"1,640",0.011
+187,Zanesville,1490,0.010
+188,Casper-Riverton,1400,0.009
+189,Billings,1200,0.008
+190,Idaho Fals-Pocatllo(Jcksn),1110,0.007
+191,Wausau-Rhinelander,940,0.006
+192,Bangor,910,0.006
+193,Eureka,900,0.006
+194,Great Falls,840,0.006
+194,Mankato,840,0.006
+194,Parkersburg,840,0.006
+197,Missoula,820,0.005
+198,Ottumwa-Kirksville,640,0.004
+198,Marquette,640,0.004
+200,Grand Junction-Montrose,560,0.004
+200,Laredo,560,0.004
+202,Juneau,530,0.004
+203,"Bend, OR",370,0.002
+203,Twin Falls,370,0.002
+205,Butte-Bozeman,360,0.002
+206,North Platte,190,0.001
+207,Helena,180,0.001
+207,Presque Isle,180,0.001
+209,Alpena,90,0.001
