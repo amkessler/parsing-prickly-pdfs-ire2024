@@ -221,5 +221,9 @@ Node:
 [https://github.com/creatale/node-dv](https://github.com/creatale/node-dv) which is supposed to work with this form extraction thing: [https://github.com/creatale/node-fv](https://github.com/creatale/node-fv)
 
 
+### Learn More About the PDF Format
+
+- [Official Adobe PDF reference](http://www.adobe.com/devnet/pdf/pdf_reference.html)
+- [PDF Explained](http://shop.oreilly.com/product/0636920021483.do) (O'Reilly)
 
  
