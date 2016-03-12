@@ -188,7 +188,7 @@ If this is something that's of interest to you, sign up here to get [notified](h
 Freefcc includes pdf parsers for about [14 broadcast tv stations](https://github.com/jsfenfen/freefcc/tree/master/scraper/parsers). One way to do it is [lotsa regexes](https://github.com/jsfenfen/freefcc/blob/master/scraper/parsers/KYW-TV/capture_formats.py).
 
 
-Sunlightlabs' U.S. House [Disbursements parser](https://github.com/sunlightlabs/disbursements); Senate disbursements [parser](https://github.com/sunlightlabs/senate_disbursements/blob/master/114_sdoc7/read_pages.py). 
+Sunlightlabs' U.S. House [Disbursements parser](https://github.com/sunlightlabs/disbursements); Senate disbursements [parser](https://github.com/sunlightlabs/senate_disbursements/blob/master/114_sdoc7/read_pages.py). Sample [page](examples/senate_disbursements/senate_page_sample.pdf)
 
 ### PDF liberation hackathon
 Yes, there actually was one. 
