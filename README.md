@@ -3,7 +3,7 @@
 ## https://shorturl.at/ZSc9y
 
   
-Resources and worksheet adapted largely intact from a NICAR presentation by Jacob Fenton and Jeremy Singer-Vine.
+Resources and worksheet adapted from the excellent NICAR presentation by Jacob Fenton and Jeremy Singer-Vine.
 
 ## What We'll Cover
 
