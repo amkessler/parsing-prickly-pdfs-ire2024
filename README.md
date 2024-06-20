@@ -1,7 +1,5 @@
-# [bit.ly/parsing-prickly-pdfs](https://bit.ly/parsing-prickly-pdfs)
 
-
-Resources and worksheet for the NICAR 2016 workshop of the same name. Instructors: [Jacob Fenton](https://github.com/jsfenfen) ([jsfenfen@gmail.com](mailto:jsfenfen@gmail.com)) and [Jeremy Singer-Vine](https://github.com/jsvine) ([jsvine@gmail.com](mailto:jsvine@gmail.com)).
+Resources and worksheet adapted from a NICAR presentation by: [Jacob Fenton](https://github.com/jsfenfen) ([jsfenfen@gmail.com](mailto:jsfenfen@gmail.com)) and [Jeremy Singer-Vine](https://github.com/jsvine) ([jsvine@gmail.com](mailto:jsvine@gmail.com)).
 
 ## What We'll Cover
 
@@ -179,51 +177,5 @@ It's easy enough to split/merge/rotate documents in your favorite PDF viewer. Bu
     - `pdftk original.pdf cat 1 2-5right 6-11 12-15right 15-end output original-rotated.pdf`. Rotates pages 2-5 and 12-15 by 90 degrees clockwise.
     - `pdftk infile.pdf cat 1 output output_p1.pdf`. Puts just the first page in output_p1.pdf. Use `cat 2-4` to put pages 2 through 4, for example.
 
-
-## Additional Resources
-
-
-### More REGEXes:
-
-Freefcc includes pdf parsers for about [14 broadcast tv stations](https://github.com/jsfenfen/freefcc/tree/master/scraper/parsers). One way to do it is [lotsa regexes](https://github.com/jsfenfen/freefcc/blob/master/scraper/parsers/KYW-TV/capture_formats.py).
-
-
-Sunlightlabs' U.S. House [Disbursements parser](https://github.com/sunlightlabs/disbursements); Senate disbursements [parser](https://github.com/sunlightlabs/senate_disbursements/blob/master/114_sdoc7/read_pages.py). Sample [page](examples/senate_disbursements/senate_page_sample.pdf)
-
-### PDF liberation hackathon
-Yes, there actually was one. 
-[github](https://github.com/pdfliberation), [web](https://pdfliberation.wordpress.com/)
-
-
-### Handwritten forms
-
-Handwriting is a whole different beast. Abby finereader does ok with it--but don't count it for accuracy. 
-
-- [Captricity](https://captricity.com/) Will do document conversions of handwritten stuff for lots of money. Former Code for America folks--ask them for a discount. Gives (or gave?) a break to nonprofits. 
-
-### Academics
-
-You may hear that OCR is a 'solved' problem in the computer science domain (although there are some implementation details that can improved).
-
-There is also work being done in 'layout analysis', and groups like [UMD's language and media processing lab](http://lamp.cfar.umd.edu/media/projects/index.html) do weird research into documents. Papers on the sexy stuff in this field are showcased yearly at the [International Conference on Document Analysis and Recognition](http://lampsrv02.umiacs.umd.edu/projdb/project.php) (in Johannesburg for 2016). UMD's David Doerman now at [DARPA](http://www.darpa.mil/staff/dr-david-doermann) ?
-
-### Tessaract bindings
-
-Check these out; YMMV.  
-
-[https://github.com/jflesch/pyocr](https://github.com/jflesch/pyocr)
-
-[https://github.com/meh/ruby-tesseract-ocr](https://github.com/meh/ruby-tesseract-ocr)
-
-[https://pypi.python.org/pypi/pytesseract](https://pypi.python.org/pypi/pytesseract)
-
-Node:
-[https://github.com/creatale/node-dv](https://github.com/creatale/node-dv) which is supposed to work with this form extraction thing: [https://github.com/creatale/node-fv](https://github.com/creatale/node-fv)
-
-
-### Learn More About the PDF Format
-
-- [Official Adobe PDF reference](http://www.adobe.com/devnet/pdf/pdf_reference.html)
-- [PDF Explained](http://shop.oreilly.com/product/0636920021483.do) (O'Reilly)
 
  
