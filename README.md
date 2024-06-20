@@ -1,5 +1,7 @@
 ## IRE 2024 - Parsing PDFs
 
+## https://shorturl.at/ZSc9y
+
   
 Resources and worksheet adapted from a NICAR presentation by: [Jacob Fenton](https://github.com/jsfenfen) ([jsfenfen@gmail.com](mailto:jsfenfen@gmail.com)) and [Jeremy Singer-Vine](https://github.com/jsvine) ([jsvine@gmail.com](mailto:jsvine@gmail.com)).
 
